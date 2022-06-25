@@ -15,8 +15,10 @@ public class Ractangle {
     }
 
     public static void main(String[] args) {
-        System.out.println("Площа прямокутрника " + areaCalculator(5,4));   // ретюрнутий результат S передаємо методом в sout
-        System.out.println("Периметр прямокутника " + perimeterCalculator(4,4)); // ретюрнутий результат S передаємо методом в sout
+        System.out.println("Площа прямокутрника " + areaCalculator(15,4));   // ретюрнутий результат S передаємо методом в sout
+        System.out.println();
+        System.out.println("Периметр прямокутника " + perimeterCalculator(43,23)); // ретюрнутий результат S передаємо методом в sout
     }
+
 }
 
